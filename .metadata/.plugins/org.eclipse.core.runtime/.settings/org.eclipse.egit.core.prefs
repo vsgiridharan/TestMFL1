@@ -1,3 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\Career\\TESTMFL1\\TestMFL\\.git;
-GitRepositoriesView.GitDirectories.relative=TestMFL\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Career\\TESTMFL1\\TestMFL\\.git;C\:\\Career\\TESTMFL1\\.git;
+GitRepositoriesView.GitDirectories.relative=TestMFL\\.git;.git;
+RepositorySearchDialogDeepSearch=false
+RepositorySearchDialogSearchPath=C\:\\Career\\TESTMFL1
 eclipse.preferences.version=1
